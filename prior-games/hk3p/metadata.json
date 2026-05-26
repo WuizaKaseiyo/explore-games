@@ -1,0 +1,9 @@
+{
+  "game_id": "hk3p",
+  "title": "Boil Chamber",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/hk3p",
+  "date_generated": "2026-05-10T13:20:00Z"
+}

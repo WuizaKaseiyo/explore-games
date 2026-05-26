@@ -1,0 +1,9 @@
+{
+  "game_id": "jd4q",
+  "title": "Echo-Trail Maze",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4, 6],
+  "local_dir": "prior-games/jd4q",
+  "date_generated": "2026-05-07T20:50:56Z"
+}

@@ -1,0 +1,9 @@
+{
+  "game_id": "gg20",
+  "title": "Counterweight-Beam-Balance",
+  "default_fps": 30,
+  "tags": ["gg-generated", "counterweight-beam-balance", "puzzle", "side-view", "torque", "mobile"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/gg20",
+  "date_generated": "2026-05-08T13:20:00Z"
+}

@@ -1,0 +1,20 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 32, \"y\": 22}",
+    "ACTION6:{\"x\": 32, \"y\": 22}",
+    "ACTION6:{\"x\": 42, \"y\": 32}",
+    "ACTION6:{\"x\": 42, \"y\": 32}",
+    "ACTION6:{\"x\": 42, \"y\": 32}",
+    "ACTION6:{\"x\": 32, \"y\": 32}",
+    "ACTION6:{\"x\": 32, \"y\": 32}",
+    "ACTION6:{\"x\": 32, \"y\": 32}",
+    "ACTION6:{\"x\": 32, \"y\": 32}"
+  ],
+  "steps": 9,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "prior-games/kp9z/level_3/oracle_solution.recording.jsonl",
+  "video": "prior-games/kp9z/level_3/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

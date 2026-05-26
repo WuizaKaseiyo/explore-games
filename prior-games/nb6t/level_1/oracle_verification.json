@@ -1,0 +1,17 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION3",
+    "ACTION3",
+    "ACTION5",
+    "ACTION3",
+    "ACTION5",
+    "ACTION3"
+  ],
+  "steps": 6,
+  "final_level_index": 1,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/nb6t/level_1/oracle_solution.recording.jsonl",
+  "video": "prior-games/nb6t/level_1/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

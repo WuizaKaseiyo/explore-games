@@ -1,0 +1,9 @@
+{
+  "game_id": "qf8m",
+  "title": "Rook-Cross Toggle Pattern Match",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/qf8m",
+  "date_generated": "2026-05-08T17:29:34Z"
+}

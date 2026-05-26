@@ -1,0 +1,15 @@
+{
+  "verified": true,
+  "high_level_witness": "RLGR",
+  "actions": [
+    "ACTION6:{\"x\": 50, \"y\": 18}",
+    "ACTION6:{\"x\": 6, \"y\": 18}",
+    "ACTION6:{\"x\": 34, \"y\": 42}",
+    "ACTION6:{\"x\": 50, \"y\": 18}"
+  ],
+  "steps": 4,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "analysis/game_state/outputs/branch_local_witness_recordings/vz8r/level_3/oracle_solution.recording.jsonl",
+  "video": "analysis/game_state/outputs/branch_local_witness_recordings/vz8r/level_3/oracle_solution.mp4"
+}

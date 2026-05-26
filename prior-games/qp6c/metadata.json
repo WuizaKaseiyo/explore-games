@@ -1,0 +1,9 @@
+{
+  "game_id": "qp6c",
+  "title": "Gravity Slot Chamber",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/qp6c",
+  "date_generated": "2026-05-08T00:55:45Z"
+}

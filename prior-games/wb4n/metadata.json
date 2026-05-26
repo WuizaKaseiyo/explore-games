@@ -1,0 +1,9 @@
+{
+  "game_id": "wb4n",
+  "title": "Waterline Bay",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/wb4n",
+  "date_generated": "2026-05-10T12:40:00Z"
+}

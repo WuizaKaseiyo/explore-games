@@ -1,0 +1,9 @@
+{
+  "game_id": "gg02",
+  "title": "Orc-Path-Tower-Defense",
+  "default_fps": 30,
+  "tags": ["gg-generated", "tower-defense", "orcs", "boss", "castle", "economy", "path"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/gg02",
+  "date_generated": "2026-05-11T11:00:00Z"
+}

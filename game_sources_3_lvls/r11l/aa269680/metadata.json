@@ -1,0 +1,16 @@
+{
+  "game_id": "r11l-aa269680",
+  "title": "R11L",
+  "default_fps": 30,
+  "tags": [
+    "click",
+    "3-levels-only"
+  ],
+  "baseline_actions": [
+    7,
+    28,
+    30
+  ],
+  "local_dir": "data/environment_files/r11l/aa269680",
+  "date_downloaded": "2026-03-27T14:04:25.219786+00:00"
+}

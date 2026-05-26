@@ -1,0 +1,16 @@
+{
+  "game_id": "wa30-ee6fef47",
+  "title": "WA30",
+  "default_fps": 5,
+  "tags": [
+    "keyboard",
+    "3-levels-only"
+  ],
+  "baseline_actions": [
+    125,
+    58,
+    259
+  ],
+  "local_dir": "data/environment_files/wa30/ee6fef47",
+  "date_downloaded": "2026-03-27T07:17:25.385752+00:00"
+}

@@ -1,0 +1,9 @@
+{
+  "game_id": "gg21",
+  "title": "Flashlight-Key-Maze",
+  "default_fps": 30,
+  "tags": ["gg-generated", "flashlight-key-maze", "hidden-information", "maze", "inventory", "doors"],
+  "baseline_actions": [1, 2, 3, 4, 5],
+  "local_dir": "prior-games/gg21",
+  "date_generated": "2026-05-11T10:00:00Z"
+}

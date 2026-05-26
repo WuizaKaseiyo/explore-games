@@ -1,0 +1,9 @@
+{
+  "game_id": "zd7m",
+  "title": "Cohort-Step Routing",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4],
+  "local_dir": "prior-games/zd7m",
+  "date_generated": "2026-05-06T23:25:54Z"
+}

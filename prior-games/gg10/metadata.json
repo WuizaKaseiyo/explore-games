@@ -1,0 +1,9 @@
+{
+  "game_id": "gg10",
+  "title": "Echo-Delay-Follower",
+  "default_fps": 30,
+  "tags": ["claude-generated", "echo-delay-follower", "puzzle", "temporal", "keyboard"],
+  "baseline_actions": [1, 2, 3, 4, 6],
+  "local_dir": "prior-games/gg10",
+  "date_generated": "2026-05-07T13:20:00Z"
+}

@@ -1,0 +1,19 @@
+{
+  "verified": true,
+  "high_level_witness": "NNSS",
+  "actions": [
+    "ACTION6:{\"x\": 6, \"y\": 50}",
+    "ACTION6:{\"x\": 50, \"y\": 50}",
+    "ACTION6:{\"x\": 6, \"y\": 50}",
+    "ACTION6:{\"x\": 50, \"y\": 50}",
+    "ACTION6:{\"x\": 22, \"y\": 50}",
+    "ACTION6:{\"x\": 50, \"y\": 50}",
+    "ACTION6:{\"x\": 22, \"y\": 50}",
+    "ACTION6:{\"x\": 50, \"y\": 50}"
+  ],
+  "steps": 8,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "analysis/game_state/outputs/branch_local_witness_recordings/mr8k/level_3/oracle_solution.recording.jsonl",
+  "video": "analysis/game_state/outputs/branch_local_witness_recordings/mr8k/level_3/oracle_solution.mp4"
+}

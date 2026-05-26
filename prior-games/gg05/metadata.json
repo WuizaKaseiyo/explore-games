@@ -1,0 +1,9 @@
+{
+  "game_id": "gg05",
+  "title": "Sandbar-River-Block",
+  "default_fps": 30,
+  "tags": ["claude-generated", "sandbar-river-block", "puzzle", "river", "sandpile", "click"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/gg05",
+  "date_generated": "2026-05-06T20:06:00Z"
+}

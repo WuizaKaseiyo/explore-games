@@ -1,0 +1,9 @@
+{
+  "game_id": "gg19",
+  "title": "Marble-Drop-Switchyard",
+  "default_fps": 30,
+  "tags": ["gg-generated", "marble-drop-switchyard", "puzzle", "side-view", "switchyard", "kinetic"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/gg19",
+  "date_generated": "2026-05-08T13:10:00Z"
+}

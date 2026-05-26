@@ -1,0 +1,9 @@
+{
+  "game_id": "dh4j",
+  "title": "Stride Pips",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4],
+  "local_dir": "prior-games/dh4j",
+  "date_generated": "2026-05-11T02:00:16Z"
+}

@@ -1,0 +1,9 @@
+{
+  "game_id": "nl6v",
+  "title": "Mixer Bench",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/nl6v",
+  "date_generated": "2026-05-10T14:05:00Z"
+}

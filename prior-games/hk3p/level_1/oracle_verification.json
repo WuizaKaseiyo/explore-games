@@ -1,0 +1,13 @@
+{
+  "verified": true,
+  "high_level_witness": "HR",
+  "actions": [
+    "ACTION6:{\"x\": 22, \"y\": 6}",
+    "ACTION6:{\"x\": 46, \"y\": 22}"
+  ],
+  "steps": 2,
+  "final_level_index": 1,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "analysis/game_state/outputs/branch_local_witness_recordings/hk3p/level_1/oracle_solution.recording.jsonl",
+  "video": "analysis/game_state/outputs/branch_local_witness_recordings/hk3p/level_1/oracle_solution.mp4"
+}

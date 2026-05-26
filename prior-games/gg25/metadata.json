@@ -1,0 +1,9 @@
+{
+  "game_id": "gg25",
+  "title": "Docking-Orbit-Control",
+  "default_fps": 30,
+  "tags": ["gg-generated", "spacecraft", "orbit", "docking", "moving-hazards", "traffic-control"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/gg25",
+  "date_generated": "2026-05-11T10:40:00Z"
+}

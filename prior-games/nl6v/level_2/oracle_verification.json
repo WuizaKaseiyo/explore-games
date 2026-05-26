@@ -1,0 +1,16 @@
+{
+  "verified": true,
+  "high_level_witness": "YCRYL",
+  "actions": [
+    "ACTION6:{\"x\": 14, \"y\": 2}",
+    "ACTION6:{\"x\": 38, \"y\": 2}",
+    "ACTION6:{\"x\": 42, \"y\": 46}",
+    "ACTION6:{\"x\": 14, \"y\": 2}",
+    "ACTION6:{\"x\": 10, \"y\": 46}"
+  ],
+  "steps": 5,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "analysis/game_state/outputs/branch_local_witness_recordings/nl6v/level_2/oracle_solution.recording.jsonl",
+  "video": "analysis/game_state/outputs/branch_local_witness_recordings/nl6v/level_2/oracle_solution.mp4"
+}

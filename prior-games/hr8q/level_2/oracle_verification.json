@@ -1,0 +1,18 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 53, \"y\": 7}",
+    "ACTION6:{\"x\": 53, \"y\": 17}",
+    "ACTION5",
+    "ACTION6:{\"x\": 53, \"y\": 27}",
+    "ACTION6:{\"x\": 41, \"y\": 7}",
+    "ACTION5"
+  ],
+  "steps": 6,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/hr8q/level_2/oracle_solution.recording.jsonl",
+  "video": "prior-games/hr8q/level_2/oracle_solution.mp4",
+  "source_profile": "jm_validation_prior_med_v1",
+  "source_branch": "JM"
+}

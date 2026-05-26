@@ -1,0 +1,9 @@
+{
+  "game_id": "gg06",
+  "title": "Cluster-Rotate-Pivot",
+  "default_fps": 30,
+  "tags": ["claude-generated", "cluster-rotate-pivot", "puzzle", "rotation", "click"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/gg06",
+  "date_generated": "2026-05-07T00:07:00Z"
+}

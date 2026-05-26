@@ -1,0 +1,12 @@
+{
+  "verified": true,
+  "high_level_witness": "R",
+  "actions": [
+    "ACTION6:{\"x\": 50, \"y\": 18}"
+  ],
+  "steps": 1,
+  "final_level_index": 1,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "analysis/game_state/outputs/branch_local_witness_recordings/rt4c/level_1/oracle_solution.recording.jsonl",
+  "video": "analysis/game_state/outputs/branch_local_witness_recordings/rt4c/level_1/oracle_solution.mp4"
+}

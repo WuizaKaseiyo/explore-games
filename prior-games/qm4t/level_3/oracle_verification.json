@@ -1,0 +1,16 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 12, \"y\": 13}",
+    "ACTION6:{\"x\": 54, \"y\": 13}",
+    "ACTION6:{\"x\": 54, \"y\": 54}",
+    "ACTION6:{\"x\": 12, \"y\": 54}",
+    "ACTION5"
+  ],
+  "steps": 5,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "prior-games/qm4t/level_3/oracle_solution.recording.jsonl",
+  "video": "prior-games/qm4t/level_3/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

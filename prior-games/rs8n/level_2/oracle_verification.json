@@ -1,0 +1,26 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION4",
+    "ACTION5",
+    "ACTION2",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION2",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION1",
+    "ACTION1",
+    "ACTION3",
+    "ACTION5"
+  ],
+  "steps": 15,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/rs8n/level_2/oracle_solution.recording.jsonl",
+  "video": "prior-games/rs8n/level_2/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

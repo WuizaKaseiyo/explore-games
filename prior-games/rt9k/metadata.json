@@ -1,0 +1,9 @@
+{
+  "game_id": "rt9k",
+  "title": "Torus Wrap with Tone-Cycle",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4],
+  "local_dir": "prior-games/rt9k",
+  "date_generated": "2026-05-10T07:02:57Z"
+}

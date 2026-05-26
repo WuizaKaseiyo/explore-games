@@ -1,0 +1,16 @@
+{
+  "game_id": "sp80-0ee2d095",
+  "title": "SP80",
+  "default_fps": 10,
+  "tags": [
+    "keyboard_click",
+    "3-levels-only"
+  ],
+  "baseline_actions": [
+    11,
+    18,
+    17
+  ],
+  "local_dir": "data/environment_files/sp80/0ee2d095",
+  "date_downloaded": "2026-03-26T23:22:00.860719+00:00"
+}

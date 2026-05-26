@@ -1,0 +1,9 @@
+{
+  "game_id": "lv4k",
+  "title": "Lever-Balance Torque",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/lv4k",
+  "date_generated": "2026-05-07T00:00:00Z"
+}

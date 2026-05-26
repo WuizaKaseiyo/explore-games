@@ -1,0 +1,5 @@
+- [2026-04-30T13:00:00] #01 entered write_spec, from START (study + pick_mechanic skipped per user request; mechanic-pick.md authored inline)
+- [2026-04-30T13:05:00] #02 entered critique_spec, from #01 write_spec
+- [2026-04-30T13:08:00] #03 entered implement, from #02 critique_spec
+- [2026-04-30T15:34:00] #04 entered smoke_test, from #03 implement
+- [2026-04-30T15:38:00] #05 entered finalize, from #04 smoke_test

@@ -1,0 +1,13 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION2",
+    "ACTION3"
+  ],
+  "steps": 2,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/tg6w/level_2/oracle_solution.recording.jsonl",
+  "video": "prior-games/tg6w/level_2/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

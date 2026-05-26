@@ -1,0 +1,9 @@
+{
+  "game_id": "gg24",
+  "title": "Museum-Heist-Net",
+  "default_fps": 30,
+  "tags": ["gg-generated", "museum", "maze", "security", "cameras", "guards", "traps", "hidden-information", "economy"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/gg24",
+  "date_generated": "2026-05-11T10:30:00Z"
+}

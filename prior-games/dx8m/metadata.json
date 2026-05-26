@@ -1,0 +1,9 @@
+{
+  "game_id": "dx8m",
+  "title": "Local Invariant Balance",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [4, 6],
+  "local_dir": "prior-games/dx8m",
+  "date_generated": "2026-05-09T17:10:00Z"
+}

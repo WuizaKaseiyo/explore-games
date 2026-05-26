@@ -1,0 +1,9 @@
+{
+  "game_id": "bx84",
+  "title": "Beam-Mirror-Reflect Puzzle",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/bx84",
+  "date_generated": "2026-05-05T14:33:34Z"
+}

@@ -1,0 +1,9 @@
+{
+  "game_id": "pf3w",
+  "title": "Wavefront Synchronization",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/pf3w",
+  "date_generated": "2026-05-07T15:21:40Z"
+}

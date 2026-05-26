@@ -1,0 +1,9 @@
+{
+  "game_id": "pn5d",
+  "title": "Connected-Vessel Filling",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [3, 4, 5, 6],
+  "local_dir": "prior-games/pn5d",
+  "date_generated": "2026-05-08T21:56:58Z"
+}

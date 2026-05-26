@@ -1,0 +1,23 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 20, \"y\": 19}",
+    "ACTION6:{\"x\": 31, \"y\": 19}",
+    "ACTION6:{\"x\": 42, \"y\": 19}",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5"
+  ],
+  "steps": 12,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "prior-games/pn5d/level_3/oracle_solution.recording.jsonl",
+  "video": "prior-games/pn5d/level_3/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

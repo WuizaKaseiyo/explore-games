@@ -1,0 +1,21 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 9, \"y\": 9}",
+    "ACTION6:{\"x\": 9, \"y\": 9}",
+    "ACTION6:{\"x\": 9, \"y\": 9}",
+    "ACTION6:{\"x\": 9, \"y\": 9}",
+    "ACTION6:{\"x\": 9, \"y\": 44}",
+    "ACTION6:{\"x\": 9, \"y\": 44}",
+    "ACTION6:{\"x\": 9, \"y\": 44}",
+    "ACTION6:{\"x\": 9, \"y\": 44}",
+    "ACTION5"
+  ],
+  "steps": 9,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "prior-games/gv47/level_3/oracle_solution.recording.jsonl",
+  "video": "prior-games/gv47/level_3/oracle_solution.mp4",
+  "source_profile": "goal_state_set_eval_v1",
+  "source_branch": "JM"
+}

@@ -1,0 +1,15 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 27, \"y\": 27}",
+    "ACTION6:{\"x\": 27, \"y\": 27}",
+    "ACTION6:{\"x\": 27, \"y\": 27}",
+    "ACTION6:{\"x\": 27, \"y\": 27}"
+  ],
+  "steps": 4,
+  "final_level_index": 1,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/kp9z/level_1/oracle_solution.recording.jsonl",
+  "video": "prior-games/kp9z/level_1/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

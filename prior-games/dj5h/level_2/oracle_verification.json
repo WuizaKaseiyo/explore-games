@@ -1,0 +1,27 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 10, \"y\": 7}",
+    "ACTION5",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4"
+  ],
+  "steps": 16,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/dj5h/level_2/oracle_solution.recording.jsonl",
+  "video": "prior-games/dj5h/level_2/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

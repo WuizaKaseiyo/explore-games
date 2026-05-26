@@ -1,0 +1,9 @@
+{
+  "game_id": "gg03",
+  "title": "Chimera-Merge-Split",
+  "default_fps": 30,
+  "tags": ["claude-generated", "chimera-merge-split", "puzzle", "rigid-body"],
+  "baseline_actions": [1, 2, 3, 4, 5, 6],
+  "local_dir": "prior-games/gg03",
+  "date_generated": "2026-05-06T18:28:00Z"
+}

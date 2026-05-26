@@ -1,0 +1,16 @@
+{
+  "game_id": "vc33-9851e02b",
+  "title": "VC33",
+  "default_fps": 20,
+  "tags": [
+    "click",
+    "3-levels-only"
+  ],
+  "baseline_actions": [
+    6,
+    13,
+    31
+  ],
+  "local_dir": "data/environment_files/vc33/9851e02b",
+  "date_downloaded": "2026-03-27T10:52:17.000807+00:00"
+}

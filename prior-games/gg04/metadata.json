@@ -1,0 +1,9 @@
+{
+  "game_id": "gg04",
+  "title": "Mirror Beam Bounce",
+  "default_fps": 30,
+  "tags": ["claude-generated", "mirror-beam-bounce", "optics", "click-rotate", "puzzle"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/gg04",
+  "date_generated": "2026-05-06T19:00:00Z"
+}

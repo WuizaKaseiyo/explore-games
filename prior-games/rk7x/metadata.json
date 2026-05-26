@@ -1,0 +1,9 @@
+{
+  "game_id": "rk7x",
+  "title": "Live-Switch Routing",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/rk7x",
+  "date_generated": "2026-05-06T00:22:51Z"
+}

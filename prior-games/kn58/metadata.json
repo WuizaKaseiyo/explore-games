@@ -1,0 +1,9 @@
+{
+  "game_id": "kn58",
+  "title": "Anchor-Pull Magnet",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/kn58",
+  "date_generated": "2026-05-05T11:32:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION3",
+    "ACTION3",
+    "ACTION3",
+    "ACTION3",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2"
+  ],
+  "steps": 16,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/rt9k/level_2/oracle_solution.recording.jsonl",
+  "video": "prior-games/rt9k/level_2/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

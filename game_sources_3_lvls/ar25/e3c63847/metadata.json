@@ -1,0 +1,17 @@
+{
+  "game_id": "ar25-e3c63847",
+  "title": "AR25",
+  "default_fps": 6,
+  "game_dir_url": "https://github.com/novaprize/NovaPlay-Games-Devless/tree/main/games/axis_reflect",
+  "tags": [
+    "keyboard_click",
+    "3-levels-only"
+  ],
+  "baseline_actions": [
+    17,
+    22,
+    103
+  ],
+  "local_dir": "environment_files/ar25/e3c63847",
+  "date_downloaded": "2026-03-23T01:12:51.076496+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "verified": true,
+  "high_level_witness": [
+    "R",
+    "R",
+    [
+      "anchor",
+      "upper-left"
+    ],
+    [
+      "anchor",
+      "upper-right"
+    ],
+    "SET",
+    "R",
+    "R",
+    "D",
+    "D",
+    [
+      "anchor",
+      "lower-left"
+    ],
+    [
+      "anchor",
+      "lower-right"
+    ],
+    "SET",
+    "R",
+    "R",
+    "R"
+  ],
+  "actions": [
+    "ACTION4",
+    "ACTION4",
+    "ACTION6:{\"x\": 28, \"y\": 12}",
+    "ACTION6:{\"x\": 44, \"y\": 12}",
+    "ACTION5",
+    "ACTION4",
+    "ACTION4",
+    "ACTION2",
+    "ACTION2",
+    "ACTION6:{\"x\": 28, \"y\": 28}",
+    "ACTION6:{\"x\": 44, \"y\": 28}",
+    "ACTION5",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4"
+  ],
+  "steps": 15,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "analysis/game_state/outputs/branch_local_witness_recordings/st5b/level_2/oracle_solution.recording.jsonl",
+  "video": "analysis/game_state/outputs/branch_local_witness_recordings/st5b/level_2/oracle_solution.mp4"
+}

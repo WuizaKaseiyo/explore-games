@@ -1,0 +1,9 @@
+{
+  "game_id": "gg23",
+  "title": "Braid-Strand-Weave",
+  "default_fps": 30,
+  "tags": ["gg-generated", "braid-strand-weave", "topology", "weaving", "tension"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/gg23",
+  "date_generated": "2026-05-11T10:20:00Z"
+}

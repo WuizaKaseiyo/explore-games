@@ -1,0 +1,15 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 12, \"y\": 15}",
+    "ACTION6:{\"x\": 52, \"y\": 15}",
+    "ACTION6:{\"x\": 32, \"y\": 55}",
+    "ACTION5"
+  ],
+  "steps": 4,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/qm4t/level_2/oracle_solution.recording.jsonl",
+  "video": "prior-games/qm4t/level_2/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

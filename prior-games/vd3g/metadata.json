@@ -1,0 +1,9 @@
+{
+  "game_id": "vd3g",
+  "title": "Mound-and-Marble Routing",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/vd3g",
+  "date_generated": "2026-05-07T20:41:42Z"
+}

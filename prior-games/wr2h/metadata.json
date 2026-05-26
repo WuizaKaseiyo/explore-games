@@ -1,0 +1,9 @@
+{
+  "game_id": "wr2h",
+  "title": "Carrier Strip Array",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4, 5],
+  "local_dir": "prior-games/wr2h",
+  "date_generated": "2026-05-07T12:26:00Z"
+}

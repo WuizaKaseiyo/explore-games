@@ -1,0 +1,12 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 11, \"y\": 33}"
+  ],
+  "steps": 1,
+  "final_level_index": 1,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/qn7w/level_1/oracle_solution.recording.jsonl",
+  "video": "prior-games/qn7w/level_1/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

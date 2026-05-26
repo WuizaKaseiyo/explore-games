@@ -1,0 +1,9 @@
+{
+  "game_id": "mr5q",
+  "title": "Polarity-Attract Discharge",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/mr5q",
+  "date_generated": "2026-05-07T13:55:12Z"
+}

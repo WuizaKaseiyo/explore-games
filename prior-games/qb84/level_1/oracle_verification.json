@@ -1,0 +1,20 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION1",
+    "ACTION4",
+    "ACTION4",
+    "ACTION1",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION2"
+  ],
+  "steps": 8,
+  "final_level_index": 1,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/qb84/level_1/oracle_solution.recording.jsonl",
+  "video": "prior-games/qb84/level_1/oracle_solution.mp4",
+  "source_profile": "jm_validation_prior_med_v1",
+  "source_branch": "JM"
+}

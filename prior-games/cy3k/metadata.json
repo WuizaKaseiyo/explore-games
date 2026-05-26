@@ -1,0 +1,9 @@
+{
+  "game_id": "cy3k",
+  "title": "Cluster Cycle Pattern",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4, 5],
+  "local_dir": "prior-games/cy3k",
+  "date_generated": "2026-05-08T22:10:00Z"
+}

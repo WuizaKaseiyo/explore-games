@@ -1,0 +1,9 @@
+{
+  "game_id": "mz6t",
+  "title": "Majority-Vote Stabilizer",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/mz6t",
+  "date_generated": "2026-05-08T19:00:00Z"
+}

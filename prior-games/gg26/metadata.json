@@ -1,0 +1,9 @@
+{
+  "game_id": "gg26",
+  "title": "Sheep-Pasture-Fence",
+  "default_fps": 30,
+  "tags": ["gg-generated", "sheep", "fences", "area", "flood-fill", "pasture", "budget"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/gg26",
+  "date_generated": "2026-05-11T10:50:00Z"
+}

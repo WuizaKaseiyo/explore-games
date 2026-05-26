@@ -1,0 +1,9 @@
+{
+  "game_id": "kx14",
+  "title": "Tide-Tilt Buoyant",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4, 6],
+  "local_dir": "prior-games/kx14",
+  "date_generated": "2026-04-29T02:35:00Z"
+}

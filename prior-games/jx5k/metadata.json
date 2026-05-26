@@ -1,0 +1,9 @@
+{
+  "game_id": "jx5k",
+  "title": "Constellation Edge-Link",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/jx5k",
+  "date_generated": "2026-05-08T01:10:00Z"
+}

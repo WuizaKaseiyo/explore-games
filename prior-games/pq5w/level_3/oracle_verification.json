@@ -1,0 +1,21 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 42, \"y\": 14}",
+    "ACTION6:{\"x\": 10, \"y\": 38}",
+    "ACTION4",
+    "ACTION4",
+    "ACTION1",
+    "ACTION6:{\"x\": 10, \"y\": 38}",
+    "ACTION6:{\"x\": 38, \"y\": 18}",
+    "ACTION2",
+    "ACTION2",
+    "ACTION4"
+  ],
+  "steps": 10,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "prior-games/pq5w/level_3/oracle_solution.recording.jsonl",
+  "video": "prior-games/pq5w/level_3/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

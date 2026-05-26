@@ -1,0 +1,9 @@
+{
+  "game_id": "vz8r",
+  "title": "Viscosity Drift",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/vz8r",
+  "date_generated": "2026-05-10T13:00:00Z"
+}

@@ -1,0 +1,9 @@
+{
+  "game_id": "gg13",
+  "title": "Chromatic-Drip-Labyrinth",
+  "default_fps": 30,
+  "tags": ["claude-generated", "chromatic-drip-labyrinth", "puzzle", "paint", "movement", "colour-mixing", "colour-gates"],
+  "baseline_actions": [1, 2, 3, 4],
+  "local_dir": "prior-games/gg13",
+  "date_generated": "2026-05-07T13:50:00Z"
+}

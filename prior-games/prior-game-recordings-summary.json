@@ -1,0 +1,1812 @@
+{
+  "bw7k": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "bx84": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 2,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 3,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      }
+    ]
+  },
+  "bz3k": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "cf7m": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "cv5b": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "dh4j": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "dj5h": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "ds5q": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "ek73": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "fw8c": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "fz5j": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "gg01": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg02": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg03": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg04": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg05": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg06": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg07": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg08": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg09": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg10": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg11": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg12": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg13": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg14": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg15": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg16": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg17": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg18": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg19": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg20": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg21": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg22": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg23": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg24": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg25": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gg26": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "gv47": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "gx7m": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "hb5n": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "hk3p": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "hk7v": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "hl4n": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "hr8q": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "hs7n": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "jc9r": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "jd4q": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "jx5k": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "kf42": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "kg7p": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "kj82": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 2,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 3,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      }
+    ]
+  },
+  "kn58": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "kp9z": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "kx14": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "lq5x": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "lv4k": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "mg5d": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "mr5q": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "mr8k": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "mw8p": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "mz6t": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "nb6t": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "ng52": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "nh4w": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "nl6v": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "nz3v": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "pf3w": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "pj7k": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "pn5d": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "pq5w": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "pv2k": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "pz4t": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "qb84": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "qj4r": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "qm4t": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "qn7w": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "qp6c": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "qv7f": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "qx7p": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "qy7w": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "qz73": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "rj5w": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "rk7x": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "rs8n": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "rt4c": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "rt9k": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "st5b": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "tb6m": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "tg6w": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "tj4n": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      }
+    ]
+  },
+  "tk6n": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 3,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      }
+    ]
+  },
+  "tm5x": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "vd3g": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "vp6h": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "vz8r": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "wb4n": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "wj7d": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "wm6q": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "wr2h": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "wt39": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "xn5p": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "xs2m": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "xv2b": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  },
+  "xz5g": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "yh3p": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 2,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      },
+      {
+        "level": 3,
+        "status": "replayed_mechanism_detail_witness",
+        "verified": true
+      }
+    ]
+  },
+  "ym4k": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "already_present"
+      },
+      {
+        "level": 3,
+        "status": "already_present"
+      }
+    ]
+  },
+  "zd7m": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 2,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 3,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      }
+    ]
+  },
+  "zk9p": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "already_present"
+      },
+      {
+        "level": 2,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      },
+      {
+        "level": 3,
+        "status": "mechanism_detail_witness_failed",
+        "verified": false
+      }
+    ]
+  },
+  "zw91": {
+    "levels": [
+      {
+        "level": 1,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 2,
+        "status": "no_available_solution_artifact"
+      },
+      {
+        "level": 3,
+        "status": "no_available_solution_artifact"
+      }
+    ]
+  }
+}

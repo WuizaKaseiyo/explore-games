@@ -1,0 +1,9 @@
+{
+  "game_id": "xs2m",
+  "title": "Neutral Basin",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/xs2m",
+  "date_generated": "2026-05-10T14:35:00Z"
+}

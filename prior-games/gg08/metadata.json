@@ -1,0 +1,9 @@
+{
+  "game_id": "gg08",
+  "title": "Row-Flip-Mirror",
+  "default_fps": 30,
+  "tags": ["claude-generated", "row-flip-mirror", "puzzle", "reflection", "click"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/gg08",
+  "date_generated": "2026-05-07T13:00:00Z"
+}

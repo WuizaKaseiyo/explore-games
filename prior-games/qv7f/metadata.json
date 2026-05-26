@@ -1,0 +1,9 @@
+{
+  "game_id": "qv7f",
+  "title": "Charge Rail",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/qv7f",
+  "date_generated": "2026-05-10T14:40:00Z"
+}

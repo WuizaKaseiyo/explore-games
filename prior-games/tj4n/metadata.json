@@ -1,0 +1,9 @@
+{
+  "game_id": "tj4n",
+  "title": "Boundary Trace",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4],
+  "local_dir": "prior-games/tj4n",
+  "date_generated": "2026-05-08T18:42:00Z"
+}

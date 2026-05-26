@@ -1,0 +1,9 @@
+{
+  "game_id": "qb84",
+  "title": "Bead-Lift Swap-Sequence",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4],
+  "local_dir": "prior-games/qb84",
+  "date_generated": "2026-04-29T02:24:22Z"
+}

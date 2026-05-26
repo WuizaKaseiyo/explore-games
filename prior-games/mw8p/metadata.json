@@ -1,0 +1,9 @@
+{
+  "game_id": "mw8p",
+  "title": "Predator-Prey Triangle",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4],
+  "local_dir": "prior-games/mw8p",
+  "date_generated": "2026-05-11T03:15:00Z"
+}

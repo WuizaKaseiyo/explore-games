@@ -1,0 +1,22 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 42, \"y\": 50}",
+    "ACTION5",
+    "ACTION6:{\"x\": 18, \"y\": 26}",
+    "ACTION6:{\"x\": 26, \"y\": 50}",
+    "ACTION6:{\"x\": 26, \"y\": 22}",
+    "ACTION6:{\"x\": 10, \"y\": 50}",
+    "ACTION1",
+    "ACTION6:{\"x\": 18, \"y\": 22}",
+    "ACTION6:{\"x\": 10, \"y\": 58}",
+    "ACTION6:{\"x\": 22, \"y\": 14}"
+  ],
+  "steps": 10,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "prior-games/pz4t/level_3/oracle_solution.recording.jsonl",
+  "video": "prior-games/pz4t/level_3/oracle_solution.mp4",
+  "source_profile": "jm_validation_prior_med_v1",
+  "source_branch": "JM"
+}

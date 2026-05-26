@@ -1,0 +1,40 @@
+{
+  "verified": true,
+  "high_level_witness": [
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    1,
+    5,
+    3,
+    5,
+    4
+  ],
+  "actions": [
+    "ACTION4",
+    "ACTION4",
+    "ACTION5",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION1",
+    "ACTION5",
+    "ACTION3",
+    "ACTION5",
+    "ACTION4"
+  ],
+  "steps": 14,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "analysis/game_state/outputs/branch_local_witness_recordings/wr2h/level_3/oracle_solution.recording.jsonl",
+  "video": "analysis/game_state/outputs/branch_local_witness_recordings/wr2h/level_3/oracle_solution.mp4"
+}

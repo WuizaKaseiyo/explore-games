@@ -1,0 +1,15 @@
+{
+  "verified": true,
+  "high_level_witness": "FFFL",
+  "actions": [
+    "ACTION6:{\"x\": 30, \"y\": 2}",
+    "ACTION6:{\"x\": 30, \"y\": 2}",
+    "ACTION6:{\"x\": 30, \"y\": 2}",
+    "ACTION6:{\"x\": 10, \"y\": 18}"
+  ],
+  "steps": 4,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "analysis/game_state/outputs/branch_local_witness_recordings/wb4n/level_3/oracle_solution.recording.jsonl",
+  "video": "analysis/game_state/outputs/branch_local_witness_recordings/wb4n/level_3/oracle_solution.mp4"
+}

@@ -1,0 +1,9 @@
+{
+  "game_id": "kf42",
+  "title": "Tether-Pair with Colour-Set Pads",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4, 6],
+  "local_dir": "prior-games/kf42",
+  "date_generated": "2026-04-28T16:14:16Z"
+}

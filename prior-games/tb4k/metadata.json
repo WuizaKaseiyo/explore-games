@@ -1,0 +1,9 @@
+{
+  "game_id": "tb4k",
+  "title": "Tumble-Block Stand-on-Goal",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4],
+  "local_dir": "prior-games/tb4k",
+  "date_generated": "2026-05-12T11:05:00Z"
+}

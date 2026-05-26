@@ -1,0 +1,9 @@
+{
+  "game_id": "tk6n",
+  "title": "Boomerang Loop",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4, 5],
+  "local_dir": "prior-games/tk6n",
+  "date_generated": "2026-05-10T14:02:58Z"
+}

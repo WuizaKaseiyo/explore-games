@@ -1,0 +1,16 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 22, \"y\": 6}",
+    "ACTION6:{\"x\": 6, \"y\": 22}",
+    "ACTION6:{\"x\": 38, \"y\": 22}",
+    "ACTION6:{\"x\": 22, \"y\": 38}",
+    "ACTION5"
+  ],
+  "steps": 5,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/mz6t/level_2/oracle_solution.recording.jsonl",
+  "video": "prior-games/mz6t/level_2/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

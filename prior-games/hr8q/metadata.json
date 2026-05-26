@@ -1,0 +1,9 @@
+{
+  "game_id": "hr8q",
+  "title": "Pair-Blend Recipe",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/hr8q",
+  "date_generated": "2026-04-30T12:35:17Z"
+}

@@ -1,0 +1,35 @@
+{
+  "viewport_pass": true,
+  "content_pass": true,
+  "branches_pass": true,
+  "runtime_pass": true,
+  "palette_pass": true,
+  "win_path_pass": true,
+  "witness_pass": true,
+  "witness_failures": [],
+  "lose_pass": true,
+  "camera_default_pass": true,
+  "custom_results": [
+    [
+      "check_click_toggles_normal_cell",
+      true,
+      "h0=1 h1=0"
+    ],
+    [
+      "check_marble_rolls_to_dug_low",
+      true,
+      "y0=5 y1=6"
+    ],
+    [
+      "check_anchor_click_flips_partner",
+      true,
+      "a:1->0 b:1->0"
+    ],
+    [
+      "check_lose_at_budget_exhaustion",
+      true,
+      "state after budget+1 clicks = GAME_OVER"
+    ]
+  ],
+  "all_pass": true
+}

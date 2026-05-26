@@ -1,0 +1,20 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 32, \"y\": 31}",
+    "ACTION1",
+    "ACTION6:{\"x\": 40, \"y\": 8}",
+    "ACTION5",
+    "ACTION6:{\"x\": 33, \"y\": 27}",
+    "ACTION6:{\"x\": 33, \"y\": 27}",
+    "ACTION6:{\"x\": 16, \"y\": 12}",
+    "ACTION2",
+    "ACTION5"
+  ],
+  "steps": 9,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "prior-games/wj7d/level_3/oracle_solution.recording.jsonl",
+  "video": "prior-games/wj7d/level_3/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

@@ -1,0 +1,18 @@
+{
+  "verified": true,
+  "high_level_witness": "ULRD",
+  "actions": [
+    "ACTION6:{\"x\": 18, \"y\": 50}",
+    "ACTION6:{\"x\": 18, \"y\": 50}",
+    "ACTION6:{\"x\": 18, \"y\": 50}",
+    "ACTION6:{\"x\": 30, \"y\": 50}",
+    "ACTION6:{\"x\": 42, \"y\": 50}",
+    "ACTION6:{\"x\": 42, \"y\": 50}",
+    "ACTION6:{\"x\": 54, \"y\": 50}"
+  ],
+  "steps": 7,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "analysis/game_state/outputs/branch_local_witness_recordings/mg5d/level_3/oracle_solution.recording.jsonl",
+  "video": "analysis/game_state/outputs/branch_local_witness_recordings/mg5d/level_3/oracle_solution.mp4"
+}

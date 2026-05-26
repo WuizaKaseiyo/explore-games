@@ -1,0 +1,9 @@
+{
+  "game_id": "gg15",
+  "title": "Pulse-Wire-Relay",
+  "default_fps": 30,
+  "tags": ["gg-generated", "pulse-wire-relay", "puzzle", "circuit", "timing", "relay"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/gg15",
+  "date_generated": "2026-05-08T12:00:00Z"
+}

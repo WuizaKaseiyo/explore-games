@@ -1,0 +1,9 @@
+{
+  "game_id": "rs8n",
+  "title": "Line-Reverse Sweeper",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4, 5],
+  "local_dir": "prior-games/rs8n",
+  "date_generated": "2026-05-08T18:30:00Z"
+}

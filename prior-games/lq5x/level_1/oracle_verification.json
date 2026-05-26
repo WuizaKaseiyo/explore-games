@@ -1,0 +1,19 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION5",
+    "ACTION5",
+    "ACTION2",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4"
+  ],
+  "steps": 7,
+  "final_level_index": 1,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/lq5x/level_1/oracle_solution.recording.jsonl",
+  "video": "prior-games/lq5x/level_1/oracle_solution.mp4",
+  "source_profile": "goal_state_set_eval_v1",
+  "source_branch": "JM"
+}

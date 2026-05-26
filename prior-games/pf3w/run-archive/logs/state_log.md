@@ -1,0 +1,10 @@
+- [2026-05-07T14:33:55] #01 entered study, from START
+- [2026-05-07T15:18:00] #02 entered pick_mechanic, from #01 study
+- [2026-05-07T15:35:00] #03 entered write_spec, from #02 pick_mechanic
+- [2026-05-07T16:05:00] #04 entered critique_spec, from #03 write_spec
+- [2026-05-07T16:20:00] #05 entered write_spec, from #04 critique_spec (revision pass 1)
+- [2026-05-07T16:35:00] #06 entered critique_spec, from #05 write_spec (pass 2)
+- [2026-05-07T16:50:00] #07 entered implement, from #06 critique_spec
+- [2026-05-07T17:25:00] #08 entered smoke_test, from #07 implement
+- [2026-05-07T17:50:00] #09 entered finalize, from #08 smoke_test
+- [2026-05-07T18:10:00] terminal: pf3w finalized; index updated; workspace archived to prior-games/pf3w/run-archive/.

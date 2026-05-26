@@ -1,0 +1,9 @@
+{
+  "game_id": "qn7w",
+  "title": "Pulse-Chain Eject — Newton's-Cradle Momentum Transfer",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/qn7w",
+  "date_generated": "2026-05-08T00:02:53Z"
+}

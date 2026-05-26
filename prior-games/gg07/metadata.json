@@ -1,0 +1,9 @@
+{
+  "game_id": "gg07",
+  "title": "Stack-Pillar-Lift",
+  "default_fps": 30,
+  "tags": ["claude-generated", "stack-pillar-lift", "puzzle", "stack", "crane"],
+  "baseline_actions": [3, 4, 5, 6],
+  "local_dir": "prior-games/gg07",
+  "date_generated": "2026-05-07T12:00:00Z"
+}

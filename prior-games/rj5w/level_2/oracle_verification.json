@@ -1,0 +1,18 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION4",
+    "ACTION4",
+    "ACTION5",
+    "ACTION6:{\"x\": 20, \"y\": 30}",
+    "ACTION2",
+    "ACTION2",
+    "ACTION5"
+  ],
+  "steps": 7,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/rj5w/level_2/oracle_solution.recording.jsonl",
+  "video": "prior-games/rj5w/level_2/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

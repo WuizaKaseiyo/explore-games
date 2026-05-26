@@ -1,0 +1,21 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION3",
+    "ACTION3",
+    "ACTION3",
+    "ACTION3",
+    "ACTION3"
+  ],
+  "steps": 10,
+  "final_level_index": 1,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/bz3k/level_1/oracle_solution.recording.jsonl",
+  "video": "prior-games/bz3k/level_1/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

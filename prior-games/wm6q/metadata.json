@@ -1,0 +1,9 @@
+{
+  "game_id": "wm6q",
+  "title": "Edge-Color Tile Rotator",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/wm6q",
+  "date_generated": "2026-05-10T13:45:21Z"
+}

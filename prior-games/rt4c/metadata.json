@@ -1,0 +1,9 @@
+{
+  "game_id": "rt4c",
+  "title": "Pore Filter",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/rt4c",
+  "date_generated": "2026-05-10T13:40:00Z"
+}

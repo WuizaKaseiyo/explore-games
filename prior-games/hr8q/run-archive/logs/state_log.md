@@ -1,0 +1,7 @@
+- [2026-04-30T12:03:27] #01 entered study, from START
+- [2026-04-30T12:04:00] #02 entered pick_mechanic, from #01 study
+- [2026-04-30T12:05:00] #03 entered write_spec, from #02 pick_mechanic
+- [2026-04-30T12:06:00] #04 entered critique_spec, from #03 write_spec
+- [2026-04-30T12:07:00] #05 entered implement, from #04 critique_spec
+- [2026-04-30T12:36:00] #06 entered smoke_test, from #05 implement
+- [2026-04-30T12:38:00] #07 entered finalize, from #06 smoke_test

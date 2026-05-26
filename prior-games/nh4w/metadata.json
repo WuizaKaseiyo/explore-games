@@ -1,0 +1,9 @@
+{
+  "game_id": "nh4w",
+  "title": "Arc-Loft Lobber",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [3, 4, 6],
+  "local_dir": "prior-games/nh4w",
+  "date_generated": "2026-05-10T13:47:27Z"
+}

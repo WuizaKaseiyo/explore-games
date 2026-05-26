@@ -1,0 +1,9 @@
+{
+  "game_id": "qy7w",
+  "title": "Strand-Twist Permutation",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/qy7w",
+  "date_generated": "2026-05-10T07:00:16Z"
+}

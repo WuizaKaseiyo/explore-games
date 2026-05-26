@@ -1,0 +1,17 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 4, \"y\": 20}",
+    "ACTION6:{\"x\": 4, \"y\": 32}",
+    "ACTION6:{\"x\": 4, \"y\": 32}",
+    "ACTION6:{\"x\": 4, \"y\": 44}",
+    "ACTION6:{\"x\": 4, \"y\": 44}",
+    "ACTION6:{\"x\": 4, \"y\": 44}"
+  ],
+  "steps": 6,
+  "final_level_index": 1,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/hl4n/level_1/oracle_solution.recording.jsonl",
+  "video": "prior-games/hl4n/level_1/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

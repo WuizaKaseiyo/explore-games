@@ -1,0 +1,19 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 29, \"y\": 39}",
+    "ACTION6:{\"x\": 11, \"y\": 20}",
+    "ACTION6:{\"x\": 45, \"y\": 39}",
+    "ACTION6:{\"x\": 31, \"y\": 20}",
+    "ACTION6:{\"x\": 7, \"y\": 39}",
+    "ACTION6:{\"x\": 51, \"y\": 20}",
+    "ACTION5"
+  ],
+  "steps": 7,
+  "final_level_index": 1,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/ng52/level_1/oracle_solution.recording.jsonl",
+  "video": "prior-games/ng52/level_1/oracle_solution.mp4",
+  "source_profile": "jm_validation_prior_med_v1",
+  "source_branch": "JM"
+}

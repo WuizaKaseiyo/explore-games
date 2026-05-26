@@ -1,0 +1,9 @@
+{
+  "game_id": "wt39",
+  "title": "Glide-Deflect-Thaw",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4],
+  "local_dir": "prior-games/wt39",
+  "date_generated": "2026-05-05T15:42:00Z"
+}

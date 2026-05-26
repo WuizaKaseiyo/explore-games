@@ -1,0 +1,9 @@
+{
+  "game_id": "hl4n",
+  "title": "Hue-Cross Loom",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/hl4n",
+  "date_generated": "2026-05-09T01:24:00Z"
+}

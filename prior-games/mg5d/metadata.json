@@ -1,0 +1,9 @@
+{
+  "game_id": "mg5d",
+  "title": "Split Field Sort",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/mg5d",
+  "date_generated": "2026-05-08T05:20:00Z"
+}

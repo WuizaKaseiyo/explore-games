@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>NOVAPLAY · handheld</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&family=VT323&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="grain"></div>
+
+<div class="stage">
+
+  <!-- ===== Cartridge library ===== -->
+  <aside class="shelf">
+    <div class="shelf-head">
+      <span class="shelf-title">CARTRIDGE&nbsp;LIBRARY</span>
+      <span class="shelf-count" id="count">—</span>
+    </div>
+    <div class="search-wrap">
+      <span class="search-caret">&gt;</span>
+      <input id="search" class="search" type="text" placeholder="filter cartridges…" autocomplete="off" spellcheck="false" />
+    </div>
+    <ul class="cartridges" id="gamelist"></ul>
+    <div class="shelf-foot">▲▼ browse · type to filter · click to insert</div>
+  </aside>
+
+  <!-- ===== The console ===== -->
+  <main class="console-area">
+    <div class="console">
+
+      <div class="top-vents">
+        <span></span><span></span><span></span><span></span><span></span>
+        <span></span><span></span><span></span><span></span><span></span>
+      </div>
+
+      <div class="bezel">
+        <div class="bezel-row bezel-top">
+          <span class="led" id="led"></span>
+          <span class="wordmark">NOVA<b>PLAY</b></span>
+          <span class="model">NP&middot;64</span>
+        </div>
+
+        <div class="screen-glass" id="glass">
+          <canvas id="screen" width="512" height="512"></canvas>
+          <div class="crt-lines"></div>
+          <div class="glare"></div>
+          <div class="screen-off" id="placeholder">
+            <div class="off-glyph">◳</div>
+            <div class="off-text">INSERT A CARTRIDGE</div>
+          </div>
+          <div class="banner hidden" id="banner">
+            <div class="banner-text" id="bannerText"></div>
+            <div class="banner-sub" id="bannerSub"></div>
+          </div>
+        </div>
+
+        <div class="readout">
+          <span class="ro"><i>GAME</i><b id="gameTag">———</b></span>
+          <span class="ro"><i>LV</i><b><span id="hudLevel">–</span>/<span id="hudWin">–</span></b></span>
+          <span class="ro"><i>STATE</i><b id="hudState">—</b></span>
+          <span class="ro hide-sm"><i>LAST</i><b id="hudLast">—</b></span>
+        </div>
+        <div class="gametitle" id="gameTitle"></div>
+        <div class="palette-band" id="paletteStrip"></div>
+      </div>
+
+      <!-- physical controls -->
+      <div class="deck">
+        <div class="dpad">
+          <button class="key up"    data-act="1" aria-label="up">▲</button>
+          <button class="key left"  data-act="3" aria-label="left">◀</button>
+          <span    class="key hub"></span>
+          <button class="key right" data-act="4" aria-label="right">▶</button>
+          <button class="key down"  data-act="2" aria-label="down">▼</button>
+        </div>
+
+        <div class="ab">
+          <button class="round z"  data-act="7"><span>Z</span></button>
+          <button class="round a"  data-act="5"><span>A</span></button>
+        </div>
+      </div>
+
+      <div class="utility">
+        <button class="tab" id="btnReset">RESET</button>
+        <button class="tab" id="btnFull">RESTART</button>
+        <span class="jumps">
+          <button class="tab sm" data-level="0">1</button>
+          <button class="tab sm" data-level="1">2</button>
+          <button class="tab sm" data-level="2">3</button>
+        </span>
+        <span class="hint">click&nbsp;screen = <b>ACTION&thinsp;6</b></span>
+      </div>
+
+      <div class="grille"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+      <span class="screw tl"></span><span class="screw tr"></span>
+      <span class="screw bl"></span><span class="screw br"></span>
+    </div>
+
+    <div class="caption">NOVAPLAY&trade; portable · 16-colour · 64×64 · {{count}} cartridges</div>
+  </main>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

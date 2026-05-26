@@ -1,0 +1,31 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION3",
+    "ACTION3",
+    "ACTION3",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION4",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2"
+  ],
+  "steps": 20,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "prior-games/mw8p/level_3/oracle_solution.recording.jsonl",
+  "video": "prior-games/mw8p/level_3/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

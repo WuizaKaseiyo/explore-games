@@ -1,0 +1,21 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 9, \"y\": 49}",
+    "ACTION5",
+    "ACTION6:{\"x\": 19, \"y\": 19}",
+    "ACTION6:{\"x\": 29, \"y\": 49}",
+    "ACTION5",
+    "ACTION6:{\"x\": 29, \"y\": 29}",
+    "ACTION6:{\"x\": 44, \"y\": 54}",
+    "ACTION5",
+    "ACTION6:{\"x\": 29, \"y\": 19}"
+  ],
+  "steps": 9,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/pz4t/level_2/oracle_solution.recording.jsonl",
+  "video": "prior-games/pz4t/level_2/oracle_solution.mp4",
+  "source_profile": "jm_validation_prior_med_v1",
+  "source_branch": "JM"
+}

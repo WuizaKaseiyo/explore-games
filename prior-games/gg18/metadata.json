@@ -1,0 +1,9 @@
+{
+  "game_id": "gg18",
+  "title": "Pendulum-Sync-Rail",
+  "default_fps": 30,
+  "tags": ["gg-generated", "pendulum-sync-rail", "puzzle", "side-view", "timing", "coupling"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/gg18",
+  "date_generated": "2026-05-08T13:00:00Z"
+}

@@ -1,0 +1,9 @@
+{
+  "game_id": "qz73",
+  "title": "Radial Tip-Lock Alignment",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/qz73",
+  "date_generated": "2026-04-28T21:50:42Z"
+}

@@ -1,0 +1,9 @@
+{
+  "game_id": "gg17",
+  "title": "Fuse-Burn-Ignite",
+  "default_fps": 30,
+  "tags": ["gg-generated", "fuse-burn-ignite", "puzzle", "timing", "propagation", "sync"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/gg17",
+  "date_generated": "2026-05-08T12:20:00Z"
+}

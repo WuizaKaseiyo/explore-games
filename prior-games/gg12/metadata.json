@@ -1,0 +1,9 @@
+{
+  "game_id": "gg12",
+  "title": "Constellation-Lens-Relay",
+  "default_fps": 30,
+  "tags": ["claude-generated", "constellation-lens-relay", "puzzle", "graph", "click", "rotation"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/gg12",
+  "date_generated": "2026-05-07T13:40:00Z"
+}

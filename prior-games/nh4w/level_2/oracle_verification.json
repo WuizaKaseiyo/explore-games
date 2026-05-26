@@ -1,0 +1,14 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION4",
+    "ACTION4",
+    "ACTION6:{\"x\": 62, \"y\": 51}"
+  ],
+  "steps": 3,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/nh4w/level_2/oracle_solution.recording.jsonl",
+  "video": "prior-games/nh4w/level_2/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

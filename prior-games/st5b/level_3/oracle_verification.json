@@ -1,0 +1,72 @@
+{
+  "verified": true,
+  "high_level_witness": [
+    "R",
+    "R",
+    [
+      "anchor",
+      "top-left"
+    ],
+    [
+      "anchor",
+      "top-right"
+    ],
+    "SET",
+    "R",
+    "R",
+    "D",
+    "D",
+    "D",
+    [
+      "anchor",
+      "lower-top"
+    ],
+    [
+      "anchor",
+      "lower-bottom"
+    ],
+    "SET",
+    [
+      "anchor",
+      "lower-left"
+    ],
+    [
+      "anchor",
+      "lower-right"
+    ],
+    "SET",
+    "L",
+    "L",
+    "D",
+    "D",
+    "L"
+  ],
+  "actions": [
+    "ACTION4",
+    "ACTION4",
+    "ACTION6:{\"x\": 28, \"y\": 12}",
+    "ACTION6:{\"x\": 44, \"y\": 12}",
+    "ACTION5",
+    "ACTION4",
+    "ACTION4",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION6:{\"x\": 28, \"y\": 36}",
+    "ACTION6:{\"x\": 28, \"y\": 52}",
+    "ACTION5",
+    "ACTION6:{\"x\": 28, \"y\": 36}",
+    "ACTION6:{\"x\": 44, \"y\": 36}",
+    "ACTION5",
+    "ACTION3",
+    "ACTION3",
+    "ACTION2",
+    "ACTION2",
+    "ACTION3"
+  ],
+  "steps": 21,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "analysis/game_state/outputs/branch_local_witness_recordings/st5b/level_3/oracle_solution.recording.jsonl",
+  "video": "analysis/game_state/outputs/branch_local_witness_recordings/st5b/level_3/oracle_solution.mp4"
+}

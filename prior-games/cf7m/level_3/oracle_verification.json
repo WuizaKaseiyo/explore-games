@@ -1,0 +1,55 @@
+{
+  "verified": true,
+  "high_level_witness": [
+    "R",
+    "L",
+    [
+      "seed",
+      "amber"
+    ],
+    [
+      "pulse",
+      1
+    ],
+    [
+      "seed",
+      "cyan"
+    ],
+    [
+      "pulse",
+      6
+    ],
+    [
+      "seed",
+      "amber"
+    ],
+    [
+      "pulse",
+      5
+    ]
+  ],
+  "actions": [
+    "ACTION4",
+    "ACTION3",
+    "ACTION6:{\"x\": 20, \"y\": 44}",
+    "ACTION5",
+    "ACTION6:{\"x\": 44, \"y\": 44}",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION6:{\"x\": 20, \"y\": 44}",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5",
+    "ACTION5"
+  ],
+  "steps": 17,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "analysis/game_state/outputs/branch_local_witness_recordings/cf7m/level_3/oracle_solution.recording.jsonl",
+  "video": "analysis/game_state/outputs/branch_local_witness_recordings/cf7m/level_3/oracle_solution.mp4"
+}

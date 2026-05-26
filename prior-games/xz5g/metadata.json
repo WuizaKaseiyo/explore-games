@@ -1,0 +1,9 @@
+{
+  "game_id": "xz5g",
+  "title": "Pivot-and-Spin",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [5, 6],
+  "local_dir": "prior-games/xz5g",
+  "date_generated": "2026-05-08T19:06:36Z"
+}

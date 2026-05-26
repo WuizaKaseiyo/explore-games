@@ -1,0 +1,9 @@
+{
+  "game_id": "pj7k",
+  "title": "Rolling Cube Face-Paint",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4],
+  "local_dir": "prior-games/pj7k",
+  "date_generated": "2026-04-30T20:26:19Z"
+}

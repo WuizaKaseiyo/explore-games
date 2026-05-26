@@ -1,0 +1,26 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION6:{\"x\": 12, \"y\": 14}",
+    "ACTION1",
+    "ACTION1",
+    "ACTION1",
+    "ACTION1",
+    "ACTION6:{\"x\": 40, \"y\": 14}",
+    "ACTION1",
+    "ACTION1",
+    "ACTION1",
+    "ACTION1",
+    "ACTION1",
+    "ACTION1",
+    "ACTION6:{\"x\": 54, \"y\": 14}",
+    "ACTION1",
+    "ACTION1"
+  ],
+  "steps": 15,
+  "final_level_index": 2,
+  "final_state": "GameState.NOT_FINISHED",
+  "recording": "prior-games/qx7p/level_2/oracle_solution.recording.jsonl",
+  "video": "prior-games/qx7p/level_2/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

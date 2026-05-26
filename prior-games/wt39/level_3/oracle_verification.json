@@ -1,0 +1,18 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION4",
+    "ACTION3",
+    "ACTION2",
+    "ACTION4",
+    "ACTION1",
+    "ACTION4"
+  ],
+  "steps": 6,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "prior-games/wt39/level_3/oracle_solution.recording.jsonl",
+  "video": "prior-games/wt39/level_3/oracle_solution.mp4",
+  "source_profile": "jm_validation_prior_med_v1",
+  "source_branch": "JM"
+}

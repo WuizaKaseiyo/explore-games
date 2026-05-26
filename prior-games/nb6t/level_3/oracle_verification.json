@@ -1,0 +1,30 @@
+{
+  "verified": true,
+  "actions": [
+    "ACTION3",
+    "ACTION3",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION5",
+    "ACTION3",
+    "ACTION5",
+    "ACTION3",
+    "ACTION4",
+    "ACTION5",
+    "ACTION3",
+    "ACTION3",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION2",
+    "ACTION6:{\"x\": 32, \"y\": 20}"
+  ],
+  "steps": 19,
+  "final_level_index": 2,
+  "final_state": "GameState.WIN",
+  "recording": "prior-games/nb6t/level_3/oracle_solution.recording.jsonl",
+  "video": "prior-games/nb6t/level_3/oracle_solution.mp4",
+  "source": "mechanism-detail.md"
+}

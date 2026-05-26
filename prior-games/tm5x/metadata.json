@@ -1,0 +1,9 @@
+{
+  "game_id": "tm5x",
+  "title": "Aura-Imprint Polarity Stamp",
+  "default_fps": 30,
+  "tags": ["claude-generated"],
+  "baseline_actions": [1, 2, 3, 4, 5],
+  "local_dir": "prior-games/tm5x",
+  "date_generated": "2026-05-07T21:55:00Z"
+}

@@ -1,0 +1,9 @@
+{
+  "game_id": "gg14",
+  "title": "Kiln-Mosaic-Stamp",
+  "default_fps": 30,
+  "tags": ["claude-generated", "kiln-mosaic-stamp", "puzzle", "stencil", "colour-mixing", "click", "pattern"],
+  "baseline_actions": [6],
+  "local_dir": "prior-games/gg14",
+  "date_generated": "2026-05-07T14:00:00Z"
+}

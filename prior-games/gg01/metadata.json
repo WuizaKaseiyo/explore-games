@@ -1,0 +1,9 @@
+{
+  "game_id": "gg01",
+  "title": "Chain Segment Drag",
+  "default_fps": 30,
+  "tags": ["claude-generated", "chain-segment-drag", "split", "multi-agent", "snake", "puzzle"],
+  "baseline_actions": [1, 2, 3, 4, 5, 6],
+  "local_dir": "prior-games/gg01",
+  "date_generated": "2026-05-06T18:00:00Z"
+}
