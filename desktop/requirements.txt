@@ -1,0 +1,8 @@
+# Runtime + packaging deps for the NovaPlay desktop player build.
+# Used by desktop/NovaPlay.spec and the CI build matrix.
+pygame>=2.6
+numpy>=1.26
+pydantic>=2.6
+requests>=2.31
+python-dotenv>=1.0
+pyinstaller>=6.10

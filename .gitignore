@@ -16,3 +16,8 @@ env/
 *.log
 .env
 .env.local
+
+# PyInstaller desktop build outputs
+/build/
+/dist/
+recordings/
