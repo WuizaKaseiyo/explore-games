@@ -12,6 +12,42 @@ The engine (`novaengine`) and loader (`novacore`) are vendored at the
 repo root, so the harness, the desktop player (`play.py`), and the
 web player (`web/`) all run self-contained.
 
+## Install the desktop app
+
+There is no pre-built download yet — clone the repo and build a
+standalone app locally. macOS, Windows and Linux all work; PyInstaller
+cannot cross-compile, so each user builds on their own OS. Needs
+**Python 3.12+** and **git**.
+
+```bash
+git clone https://github.com/WuizaKaseiyo/explore-games.git
+cd explore-games
+
+# 1. create venv and install build deps
+python3 -m venv .venv
+.venv/bin/pip install -r desktop/requirements.txt
+
+# 2. build the standalone bundle (30–60s, ~58 MB output)
+.venv/bin/pyinstaller desktop/NovaPlay.spec --noconfirm
+```
+
+Output lives in `dist/`. Install it where your OS expects apps:
+
+| OS      | Build output            | Install                                              |
+|---------|-------------------------|------------------------------------------------------|
+| macOS   | `dist/NovaPlay.app`     | `cp -R dist/NovaPlay.app /Applications/`             |
+| Windows | `dist/NovaPlay/`        | Copy the folder into `C:\Program Files\NovaPlay\`    |
+| Linux   | `dist/NovaPlay/`        | Copy the folder anywhere; run `./NovaPlay` inside it |
+
+All 142 games (117 generated + 25 reference) are bundled inside the
+binary — no extra files to ship. Build details, signing caveats, and
+the `--selftest` headless-verify command are documented in
+[`desktop/README.md`](desktop/README.md).
+
+**Don't want to build?** If/when a tagged release exists, pre-built
+bundles will appear on the
+[Releases page](https://github.com/WuizaKaseiyo/explore-games/releases).
+
 ## Layout
 
 ```
